@@ -1,4 +1,4 @@
-# 🚀 SitizenFX (Vidllnx) – Version 2.0 (September 2025)
+# 🚀 XitizenFX (Vidllnx) – Version 2.0 (September 2025)
 
 Vidlluc Engine is the **new version of Vidllux**, a proprietary multiplayer and game framework developed and maintained by Sfx.re Limited.  
 It is a custom fork of the CitizenFX framework, expanded with new systems, branding, and modules.  
