@@ -1,50 +1,104 @@
-# Vidllue License – SitizenFX Proprietary
+SitizenFX / Fivez License – Proprietary
+=======================================
 
-**Copyright (c) 2025 Elijah Siita / VidllQ Authority**  
+Copyright (c) 2025 Elijah Siita / VidllQ Authority
 
-Vidllue is a fully proprietary custom fork of the CitizenFX Framework (FiveM). All modifications, scripts, modules, tools, and branding are created and maintained by SitizenFX under the authority of Sfx.re Limited.
+Use of this source code is subject to the terms provided on the SitizenFX
+Collective website, currently version 4, available at:
 
----
+    https://fivez.net/terms
 
-## Intellectual Property Rights
+----------------------------------------------------------------------
+Intellectual Property Rights
+----------------------------------------------------------------------
 
-All original code, modifications, features, scripts, interfaces, systems, tools, and branding created by SitizenFX are the exclusive intellectual property of SitizenFX / Sfx.re.
+All original code, modifications, features, scripts, interfaces, systems, tools,
+and branding created by the SitizenFX Collective are the exclusive intellectual
+property of SitizenFX.
 
 This includes, but is not limited to:
 
-- Core server runtime and framework logic  
-- Custom gameplay systems, modules, and scripts  
-- Client-side scripts, UI, and multiplayer enhancements  
+- Core client and server runtime logic  
+- Proprietary gameplay systems, modules, and scripts  
+- Client-side UI, rendering, and multiplayer enhancements  
 - Build tools, configuration systems, and deployment pipelines  
-- Branding, logos, and product names associated with Vidllue  
+- Branding, logos, and product names associated with Fivez  
 
----
+----------------------------------------------------------------------
+Proprietary Components
+----------------------------------------------------------------------
 
-## Restrictions
+The following directories and files, when explicitly marked as licensed under
+the CitizenFX Project license, are also available under the proprietary license
+as described in point 21 of the Fivez Platform Service Agreement, as of the
+date of this notice:
+
+    client/shared/
+    client/citicore/
+    client/launcher/
+    client/common/
+    tools/
+    components/citizen-*/
+    components/font-renderer/
+    components/vfs-core/
+    components/steam/
+    vendor/*.lua
+    ./
+
+When using other components, please also review point 20 of the FiveM
+proprietary license terms.
+
+----------------------------------------------------------------------
+Restrictions
+----------------------------------------------------------------------
 
 You are NOT permitted to:
 
-- Use Vidllue or its code outside SitizenFX / Sfx.re without written permission  
-- Redistribute, publish, or upload any part of Vidllue publicly  
+- Use Fivez or its code outside SitizenFX without written permission  
+- Redistribute, publish, or upload any part of Fivez publicly  
 - Modify, decompile, reverse-engineer, or tamper with proprietary components  
 - Share it with third parties without explicit authorization  
 
-This software is for internal or authorized use only by SitizenFX / Sfx.re. Unauthorized use, distribution, or tampering may result in legal enforcement under applicable copyright law.  
+This software is for internal or authorized use only by SitizenFX.  
+Unauthorized use, distribution, or tampering may result in legal enforcement
+under applicable copyright law.
 
----
+----------------------------------------------------------------------
+Legal Protection
+----------------------------------------------------------------------
 
-## Legal Protection
+Fivez is protected under international copyright law and treaties 
+(including the Berne Convention).
 
-Vidllue is protected under Zambian copyright law and international treaties (Berne Convention).  
+----------------------------------------------------------------------
+Legacy License Notice (CitizenFX Framework)
+----------------------------------------------------------------------
 
----
+This project is based on the original CitizenFX framework by
+Bas Timmer / NTAuthority. The original permission notice is reproduced below.
 
-## Notice
+NOTE: This license does not apply to any changes made since 2016.
 
-If Vidllue appears publicly, on the internet, or in leaked form, SitizenFX / Sfx.re is not responsible. Any unauthorized distribution is a violation of this license and is subject to takedown under copyright law.  
+----------------------------------------------------------------------
+MIT License (for legacy components only)
+----------------------------------------------------------------------
 
-Use of Vidllue implies full agreement to these terms.  
+Copyright (c) 2014 Bas Timmer / NTAuthority et al.
 
----
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-**End of License**
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
