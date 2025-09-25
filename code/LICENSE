@@ -8,9 +8,9 @@ Collective website, currently version 4, available at:
 
     https://fivez.net/terms
 
-----------------------------------------------------------------------
+
 Intellectual Property Rights
-----------------------------------------------------------------------
+============================
 
 All original code, modifications, features, scripts, interfaces, systems, tools,
 and branding created by the SitizenFX Collective are the exclusive intellectual
@@ -24,9 +24,9 @@ This includes, but is not limited to:
 - Build tools, configuration systems, and deployment pipelines  
 - Branding, logos, and product names associated with Fivez  
 
-----------------------------------------------------------------------
+
 Proprietary Components
-----------------------------------------------------------------------
+======================
 
 The following directories and files, when explicitly marked as licensed under
 the CitizenFX Project license, are also available under the proprietary license
@@ -48,9 +48,9 @@ date of this notice:
 When using other components, please also review point 20 of the FiveM
 proprietary license terms.
 
-----------------------------------------------------------------------
+
 Restrictions
-----------------------------------------------------------------------
+============
 
 You are NOT permitted to:
 
@@ -63,25 +63,25 @@ This software is for internal or authorized use only by SitizenFX.
 Unauthorized use, distribution, or tampering may result in legal enforcement
 under applicable copyright law.
 
-----------------------------------------------------------------------
+
 Legal Protection
-----------------------------------------------------------------------
+================
 
 Fivez is protected under international copyright law and treaties 
 (including the Berne Convention).
 
-----------------------------------------------------------------------
+
 Legacy License Notice (CitizenFX Framework)
-----------------------------------------------------------------------
+===========================================
 
 This project is based on the original CitizenFX framework by
 Bas Timmer / NTAuthority. The original permission notice is reproduced below.
 
 NOTE: This license does not apply to any changes made since 2016.
 
-----------------------------------------------------------------------
+
 MIT License (for legacy components only)
-----------------------------------------------------------------------
+========================================
 
 Copyright (c) 2014 Bas Timmer / NTAuthority et al.
 
@@ -99,6 +99,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, 
+ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
